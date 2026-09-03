@@ -31,7 +31,7 @@ This stage helped me understand how the electrical connections between component
 
 After completing the schematic, footprints were assigned to the components.
 
-![Footprint Assignment](images/02-footprint-assignment.png)
+![Footprint Assignment](footprints.png)
 
 I learned that selecting the correct footprint is important because it determines how the physical component will be mounted onto the PCB.
 
