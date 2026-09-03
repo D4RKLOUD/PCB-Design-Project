@@ -47,7 +47,7 @@ This gave me a better understanding of how the schematic connects to the physica
 
 The components were then positioned on the PCB.
 
-![PCB Layout](images/04-pcb-layout.png)
+![PCB Layout](<Image 27-08-2026 at 17.14.jpeg>)
 
 I learned that component placement is important because it affects the routing of traces and the overall organisation of the PCB.
 
