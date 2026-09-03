@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involved designing a printed circuit board and documenting the process from the initial circuit schematic through to PCB layout and routing.
+This project involved designing a 7-segment digital counter printed circuit board and documenting the process from the initial circuit schematic through to PCB layout and routing.
 
 The project allowed me to develop practical experience with PCB design and understand the workflow involved in turning a circuit schematic into a physical PCB.
 
