@@ -55,7 +55,7 @@ I learned that component placement is important because it affects the routing o
 
 The connections between components were then routed using PCB traces.
 
-![PCB Routing](images/05-routing.png)
+![PCB Routing](<Image 29-08-2026 at 23.09.jpeg>)
 
 This helped me understand how the electrical connections from the schematic are translated into physical copper traces on the PCB.
 
