@@ -73,7 +73,7 @@ This helped me understand how the electrical connections from the 7-segment coun
 
 After completing the PCB layout and routing, a Design Rules Check (DRC) was performed to check for potential issues with the physical PCB design.
 
-![Design Rules Check](images/07-drc.png)
+![Design Rules Check](drc.jpeg)
 
 This helped me understand the importance of checking the PCB against design rules before finalising the design and identifying potential issues with clearances, connections and other aspects of the layout.
 
