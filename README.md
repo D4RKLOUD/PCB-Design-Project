@@ -39,7 +39,7 @@ I learned that selecting the correct footprint is important because it determine
 
 Once the footprints had been assigned, the schematic was updated before transferring the design to the PCB layout.
 
-![PCB Schematic](images/03-pcb-schematic.png)
+![PCB Schematic](<Image 28-08-2026 at 22.27.jpeg>)
 
 This gave me a better understanding of how the schematic connects to the physical PCB design.
 
