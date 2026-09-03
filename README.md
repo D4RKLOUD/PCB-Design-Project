@@ -23,7 +23,7 @@ The overall design process was:
 
 The project began with creating the circuit schematic and connecting the required components.
 
-![Circuit Schematic](images/01-circuit-schematic.png)
+![Circuit Schematic](Image 27-08-2026 at 19.17.jpeg)
 
 This stage helped me understand how the electrical connections between components are represented before creating the physical PCB.
 
