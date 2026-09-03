@@ -25,7 +25,7 @@ The overall design process was:
 
 The project began with creating the circuit schematic for the 7-segment digital counter and connecting the required components.
 
-![Circuit Schematic](images/01-circuit-schematic.png)
+![Circuit Schematic](circuitschematic.jpeg)
 
 This stage helped me understand how the electrical connections between the components of a digital counter are represented before creating the physical PCB.
 
