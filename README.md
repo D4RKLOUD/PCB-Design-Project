@@ -33,7 +33,7 @@ This stage helped me understand how the electrical connections between the compo
 
 After completing the circuit schematic, an Electrical Rules Check (ERC) was performed to check for potential electrical and connection issues.
 
-![Electrical Rules Check](images/02-erc.png)
+![Electrical Rules Check](erc.jpeg)
 
 This helped me understand the importance of checking the circuit schematic for errors before moving on to the PCB design stage.
 
