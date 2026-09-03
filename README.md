@@ -49,7 +49,7 @@ I learned that selecting the correct footprint is important because it determine
 
 Once the footprints had been assigned, the schematic was updated before transferring the design to the PCB layout.
 
-![PCB Schematic](images/04-pcb-schematic.png)
+![PCB Schematic](pcbschematic.jpeg)
 
 This gave me a better understanding of how the connections in the digital counter schematic are transferred to the physical PCB design.
 
@@ -57,7 +57,7 @@ This gave me a better understanding of how the connections in the digital counte
 
 The components were then positioned on the PCB.
 
-![PCB Layout](images/05-pcb-layout.png)
+![PCB Layout](pcbmounting.png)
 
 I learned that component placement is important because it affects the routing of traces and the overall organisation of the PCB.
 
@@ -65,7 +65,7 @@ I learned that component placement is important because it affects the routing o
 
 The connections between the components were then routed using PCB traces.
 
-![PCB Routing](images/06-routing.png)
+![PCB Routing](tracing.jpeg)
 
 This helped me understand how the electrical connections from the 7-segment counter schematic are translated into physical copper traces on the PCB.
 
@@ -81,7 +81,7 @@ This helped me understand the importance of checking the PCB against design rule
 
 The final PCB design was then reviewed using the PCB layout and 3D view.
 
-![Final PCB](images/08-final-3d-view.png)
+![Final PCB](3dview.png)
 
 ## What I Learned
 
