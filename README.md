@@ -41,7 +41,7 @@ This helped me understand the importance of checking the circuit schematic for e
 
 After completing the schematic and ERC, footprints were assigned to the components used in the 7-segment digital counter.
 
-![Footprint Assignment](images/03-footprint-assignment.png)
+![Footprint Assignment](footprints.png)
 
 I learned that selecting the correct footprint is important because it determines how each physical component will be mounted onto the PCB.
 
