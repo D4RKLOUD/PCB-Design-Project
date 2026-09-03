@@ -63,7 +63,7 @@ This helped me understand how the electrical connections from the schematic are 
 
 The final PCB design was then reviewed using the PCB layout and 3D view.
 
-![Final PCB](images/06-final-3d-view.png)
+![Final PCB](<Image 29-08-2026 at 23.13.jpeg>)
 
 ## What I Learned
 
